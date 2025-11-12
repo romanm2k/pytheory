@@ -1,3 +1,3 @@
 # pytheory
 
-Theory behind snippets of code
+Basic explanations of snippets of code
